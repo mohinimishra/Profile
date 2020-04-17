@@ -1,1 +1,6 @@
-# Create a responsive webpage by using Html5, CSS, javascript
+# Single Page Responsive Profile Page
+
+## Technologies Used
+
+* HTML5
+* CSS3
